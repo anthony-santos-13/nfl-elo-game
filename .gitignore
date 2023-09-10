@@ -1,2 +1,5 @@
 *.pyc
 data/nfl_games_20*
+.venv
+.vscode
+__pycache__
